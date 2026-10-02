@@ -1,0 +1,13 @@
+{
+  "name": "wpp-bot-idm",
+  "version": "1.0.0",
+  "description": "Bot minimo de WhatsApp Cloud API para responder siempre la misma imagen y texto.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
